@@ -1,4 +1,4 @@
-## Hallo liebe Kinder ,
+## Hallo liebe Kinder 🌚,
 Mein Name ist Christian, bin 19 Jahre alt und Sachse. 
 
 Mein Boss sagte mir, ich soll einen GitHub-Account erstellen,
