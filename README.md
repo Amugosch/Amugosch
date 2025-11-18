@@ -23,7 +23,7 @@ Mal schauen was wird....
      
 was wird...
 
-Im übrigen finde ich, dass Linux die Zukunft im Gaming, und Windows 11 absoluter Bloatware-Schrott ist. Dennoch benutze ich es 🥸, da ich beim Versuch,
+Fun Fact: Im übrigen finde ich, dass Linux die Zukunft im Gaming, und Windows 11 absoluter Bloatware-Schrott ist. Dennoch benutze ich es 🥸, da ich beim Versuch,
 Geometry Dash & Zusi 3 auf einem Fedora-basierten Betriebssystem zum Laufen zu bringen, Crash-Out gegangen bin 🫤
 
 ![Dein Goofy-PC kann dieses Bild wohl nicht anzeigen, hä?](6da1480d59360098d38553c774c4e594ecdc01fc199203afed462a0be55522f9.png)
