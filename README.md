@@ -10,7 +10,8 @@ Aber das ist aktuell noch ✨ Zukunftsmusik ✨
 
 ## Meine Ziel
 **Ein erfolgreicher Abschluss meiner aktuellen Ausbildung und**
-**hoffentlich viele spannende Projekte**
+**hoffentlich viele spannende Projekte**  
+
 Mal schauen was wird....  
   
 
