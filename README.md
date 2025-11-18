@@ -9,8 +9,8 @@ Gerade im Bereich Eisenbahn / Reisen würde ich gerne eigene Programme schreiben
 Aber das ist aktuell noch ✨ Zukunftsmusik ✨
 
 ## Meine Ziel
-## Ein Erfolgreiches Meistern meiner aktuellen Ausbildung und
-## hoffentlich viele spannende Projekte
+# Ein Erfolgreiches Meistern meiner aktuellen Ausbildung und
+# hoffentlich viele spannende Projekte
 Mal schauen was wird....  
   
 
