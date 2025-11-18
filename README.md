@@ -8,129 +8,18 @@ Ich interessiere mich für Züge 🚅 und Computer 🖥️ und fahre gerne Fahrr
 Gerade im Bereich Eisenbahn / Reisen würde ich gerne eigene Programme schreiben wollen, die das Reisen erleichtern.
 Aber das ist aktuell noch ✨ Zukunftsmusik ✨
 
-Mal schauen was wird....
+## Meine Ziel
+## Ein Erfolgreiches Meistern meiner aktuellen Ausbildung und
+## hoffentlich viele spannende Projekte
+Mal schauen was wird....  
+  
 
 
 
-![Test](6da1480d59360098d38553c774c4e594ecdc01fc199203afed462a0be55522f9.png)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     
 was wird...
 
 Im übrigen finde ich, dass Linux die Zukunft im Gaming, und Windows 11 absoluter Bloatware-Schrott ist. Dennoch benutze ich es 🥸, da ich beim Versuch,
