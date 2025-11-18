@@ -1,4 +1,4 @@
-## Hallo meine lieben Kellerkinder,
+## Hallo liebe Kinder ,
 Mein Name ist Christian, bin 19 Jahre alt und Sachse. 
 
 Mein Boss sagte mir, ich soll einen GitHub-Account erstellen,
@@ -27,7 +27,7 @@ Fun Fact: Im übrigen finde ich, dass Linux die Zukunft im Gaming, und Windows 1
 Geometry Dash & Zusi 3 auf einem Fedora-basierten Betriebssystem zum Laufen zu bringen, Crash-Out gegangen bin 🫤
 
 ![Dein Goofy-PC kann dieses Bild wohl nicht anzeigen, hä?](6da1480d59360098d38553c774c4e594ecdc01fc199203afed462a0be55522f9.png)
-
+Source: ProgrammerHumour.io
 
 
 
