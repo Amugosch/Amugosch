@@ -1,5 +1,5 @@
 ## Hallo liebe Kinder 🌚,
-~~ Mein Name ist Christian, bin 19 Jahre alt und Sachse. ~~ <- Kollegen meinten das ist unnötig 
+~Mein Name ist Christian, bin 19 Jahre alt und Sachse.~ <- Kollegen meinten das ist unnötig 
 
 Mein Boss sagte mir, ich soll einen GitHub-Account erstellen,
 so bin ich jetzt hier. 🤪󠁤󠁥󠁳󠁮 (Wobei ich eigentlich schon viel länger hier am Start bin)
